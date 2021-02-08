@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Looper_Handler_HandlerThread_example'
